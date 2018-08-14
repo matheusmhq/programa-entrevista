@@ -1,6 +1,6 @@
 # Programa em Portugol
 
-Algortimo desenvolvido para trabalho da faculdade no curso Engenharia de Software.
+Algoritmo desenvolvido para trabalho da faculdade no curso Engenharia de Software.
 
 ## O que o algoritmo faz?
 
