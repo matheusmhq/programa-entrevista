@@ -1,4 +1,4 @@
-# Programa em Portugol
+# Programa de entrevista
 
 Algoritmo desenvolvido para trabalho da faculdade no curso Engenharia de Software.
 
